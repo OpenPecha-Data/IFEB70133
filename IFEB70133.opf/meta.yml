@@ -1,0 +1,25 @@
+id: IFEB70133
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:37:33.167475'
+last_modified: '2022-05-30T20:37:33.167488'
+parser: null
+source_metadata:
+  title: Dzogchen Pema Rigdzin Series
+  language: en
+  description: Texts by Dzogchen Pema Rigdzin (rdzogs chen padma rig 'dzin, 1625–1697),
+    the great adept who founded Dzogchen Monastery in Kham.
+  volume:
+    f8E88:
+      title: A Dzogchen Tögal Prayer
+      base_file: f8E88.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
